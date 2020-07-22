@@ -1,0 +1,2 @@
+import { Escuela } from './escuela';
+
